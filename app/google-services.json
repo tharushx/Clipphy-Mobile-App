@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548739052873",
+    "project_id": "clipphy-8056b",
+    "storage_bucket": "clipphy-8056b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548739052873:android:d1a98b6f1a4962b3155698",
+        "android_client_info": {
+          "package_name": "com.app.clipphy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8RSgnjcmg1AnvzT7xh9XOejKSoMT7fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
